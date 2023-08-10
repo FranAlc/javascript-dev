@@ -12,7 +12,7 @@ Texto o Cadena -> Almacenamiento de Texto.
 Asignaciones 
 Operaciones(+, - , * , /, ..)
 Identificadores(nombres de variables o constantes)
-Valores(N�meros o texto encerado entre comillas)
+Valores(N�meros o texto encerrado entre comillas)
 Llamadas a subprogramas
 
 #Operadores L�gicos
