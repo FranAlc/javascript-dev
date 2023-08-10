@@ -2,9 +2,9 @@
 #Tipos de datos
 
 Entero -> Almacenamiento de valores enteros(sin decimal). // INT
-Real -> Permite almacenar valores decimales.	// FLOAT o DOUBLE -> double es para datos de mayor tamaño
-Carácter -> Almacenan un carácter alfanumérico. // CHAR
-Lógico o Bool -> True o False.	// BOOL
+Real -> Permite almacenar valores decimales.	// FLOAT o DOUBLE -> double es para datos de mayor tamaï¿½o
+CarÃ¡cter -> Almacenan un carÃ¡cter alfanumÃ©rico. // CHAR
+LÃ³gico o Bool -> True o False.	// BOOL
 Texto o Cadena -> Almacenamiento de Texto.
 
 #Instrucciones primitivas
@@ -12,10 +12,10 @@ Texto o Cadena -> Almacenamiento de Texto.
 Asignaciones 
 Operaciones(+, - , * , /, ..)
 Identificadores(nombres de variables o constantes)
-Valores(Números o texto encerado entre comillas)
+Valores(Nï¿½meros o texto encerado entre comillas)
 Llamadas a subprogramas
 
-#Operadores Lógicos
+#Operadores Lï¿½gicos
 > Mayor que
 < Menor que
 >= Mayor o igual
@@ -26,5 +26,12 @@ Llamadas a subprogramas
 AND && 
 OR || 
 
+#Lectura y escritura de variables
+%c caracteres
+%s cadena de caracteres
+%d enteros
+%f flotantes
+La sentencia de formato se encierra entre " ", y enseguida las variables.
+scanf("%d",&entero);
 
 */
